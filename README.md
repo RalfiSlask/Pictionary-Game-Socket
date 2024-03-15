@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GridSock-Game
 
 ## Screenshots
@@ -79,3 +80,7 @@ This web application is a multiplayer game in realtime for five players where th
 - [ReginaJM](https://github.com/ReginaJM)
 - [Aanndreas](https://github.com/Aanndreas)
 - [theufoparty](https://github.com/theufoparty)
+=======
+# Pictionary-Game-Socket
+Fullstack realtime multiplayer pictonary game using sockets
+>>>>>>> fa6cb82436d1afe9be0eead96ff1b7510a5e61c4
